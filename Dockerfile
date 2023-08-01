@@ -1,2 +1,2 @@
-FROM registry.k8s.io/ingress-nginx/kube-webhook-certgen:v20230407
+FROM registry.k8s.io/ingress-nginx/controller:v1.8.1
 MAINTAINER polarwu <185581098@qq.com>
